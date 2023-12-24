@@ -1,1 +1,1 @@
-{"name":"SaveRep","description":"允许保存被切断的对局录像，允许保存观战中的对局录像，使用需要设置[Replay保存]为[全部保存]。","author":"Hagb","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"SaveRep"}],"versionNumbers":["0.2.1","0.1.0"],"recommendedVersionNumber":"0.2.1"}
+{"name":"SaveRep","description":"允许保存被切断的对局录像，允许保存观战中的对局录像，使用需要设置[Replay保存]为[全部保存]。","author":"Hagb","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"SaveRep"},{"type":"gitee","owner":"soku-cn","repo":"SaveRep"}],"versionNumbers":["0.2.1","0.1.0"],"recommendedVersionNumber":"0.2.1"}
