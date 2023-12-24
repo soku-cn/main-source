@@ -1,6 +1,2 @@
-# SokuModSourceTemplate
-Use degit to create a new source:
-
-```bash
-npx degit soku-cn/source-template.git new-source-name
-```
+# 主要模组源
+建置中...
