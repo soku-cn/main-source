@@ -1,1 +1,1 @@
-{"name":"Autopunch","author":"delthas","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"Autopunch"},{"type":"gitee","owner":"soku-cn","repo":"Autopunch"}],"description":"简称AP，若双方均开启且支持，即可直接进行UDP打洞。","descriptionI18n":[]}
+{"name":"Autopunch","author":"delthas","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"Autopunch"},{"type":"gitee","owner":"soku-cn","repo":"Autopunch"}],"description":"简称AP，若双方均开启且支持，即可直接进行UDP打洞。","descriptionI18n":[],"versionNumbers":["0.0.4"]}
