@@ -1,0 +1,1 @@
+{"name":"GetIP","author":"delthas","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"GetIP"},{"type":"gitee","owner":"soku-cn","repo":"GetIP"}],"description":"建立主机后，允许自动格式化复制IP信息文本。","descriptionI18n":[]}
