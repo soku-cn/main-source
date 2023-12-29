@@ -1,1 +1,1 @@
-{"name":"DiscordIntegration","author":"PinkySmile","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"DiscordIntegration"},{"type":"gitee","owner":"soku-cn","repo":"DiscordIntegration"}],"description":"允许在Discord中显示你当前的非想天则游戏状态。","descriptionI18n":[]}
+{"name":"DiscordIntegration","author":"PinkySmile","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"DiscordIntegration"},{"type":"gitee","owner":"soku-cn","repo":"DiscordIntegration"}],"description":"允许在Discord中显示你当前的非想天则游戏状态。","descriptionI18n":[],"versionNumbers":["0.0.1"]}
