@@ -1,1 +1,1 @@
-{"name":"NetBattleCounter","author":"未知","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"NetBattleCounter"},{"type":"gitee","owner":"soku-cn","repo":"NetBattleCounter"}],"description":"在线对战时，选人界面左上角提示对战局数，重新进入会保留对战局数数据。","descriptionI18n":[]}
+{"name":"NetBattleCounter","author":"未知","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"NetBattleCounter"},{"type":"gitee","owner":"soku-cn","repo":"NetBattleCounter"}],"description":"在线对战时，选人界面左上角提示对战局数，重新进入会保留对战局数数据。","descriptionI18n":[],"versionNumbers":["0.0.1"]}
