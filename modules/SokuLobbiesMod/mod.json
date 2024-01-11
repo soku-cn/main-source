@@ -1,1 +1,1 @@
-{"name":"SokuLobbiesMod","author":"PinkySmile","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"SokuLobbiesMod"},{"type":"gitee","owner":"soku-cn","repo":"SokuLobbiesMod"}],"description":"游戏的大厅模组，无法与InGameHostlist共存。","descriptionI18n":[]}
+{"name":"SokuLobbiesMod","author":"PinkySmile","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"SokuLobbiesMod"},{"type":"gitee","owner":"soku-cn","repo":"SokuLobbiesMod"}],"description":"游戏的大厅模组，无法与InGameHostlist共存。","descriptionI18n":[],"versionNumbers":["0.6.7"]}
