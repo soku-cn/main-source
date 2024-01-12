@@ -1,0 +1,1 @@
+{"name":"SkipIntro","author":"S-len","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"SkipIntro"},{"type":"gitee","owner":"soku-cn","repo":"SkipIntro"}],"description":"跳过游戏开头动画，若跳过的话进入 VS NETWORK 时需要等待一会儿加载大厅mod\n在 ini 内可进行自定义","descriptionI18n":[]}
