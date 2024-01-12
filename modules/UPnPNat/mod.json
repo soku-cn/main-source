@@ -1,1 +1,1 @@
-{"name":"UPnPNat","author":"DPhoenix","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"UPnPNat"},{"type":"gitee","owner":"soku-cn","repo":"UPnPNat"}],"description":"自动开放端口转发(Port Forwarding)，不用手动去路由器设置端口转发","descriptionI18n":[]}
+{"name":"UPnPNat","author":"DPhoenix","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"UPnPNat"},{"type":"gitee","owner":"soku-cn","repo":"UPnPNat"}],"description":"自动开放端口转发(Port Forwarding)，不用手动去路由器设置端口转发，ini内设置端口","descriptionI18n":[]}
