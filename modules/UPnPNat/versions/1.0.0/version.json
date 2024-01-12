@@ -1,1 +1,1 @@
-{"version":"1.0.0","main":"UPnPNat.dll","notes":"","notesI18n":[],"configFiles":["UPnPNat.ini"],"downloadLinks":[{"type":"github","url":"https://github.com/soku-cn/UPnPNat/releases/download/v1.0.0/UPnPNat_1.0.0.zip"}]}
+{"version":"1.0.0","main":"UPnPNat.dll","notes":"","notesI18n":[],"configFiles":["UPnPNat.ini"],"downloadLinks":[{"type":"github","url":"https://github.com/soku-cn/UPnPNat/releases/download/v1.0.0/UPnPNat_1.0.0.zip"},{"type":"gitee","url":"https://gitee.com/soku-cn/UPnPNat/releases/download/v1.0.0/UPnPNat_1.0.0.zip"}]}
