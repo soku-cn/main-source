@@ -1,1 +1,1 @@
-{"name":"ControlPnP","author":"Ichirin","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"ControlPnP"},{"type":"gitee","owner":"soku-cn","repo":"ControlPnP"}],"description":"修复更换操控设备导致需要重开游戏的情况","descriptionI18n":[],"versionNumbers":["0.0.1"]}
+{"name":"ControlPnP","author":"Ichirin","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"ControlPnP"},{"type":"gitee","owner":"soku-cn","repo":"ControlPnP"}],"description":"修复更换操控设备导致需要重开游戏的情况","descriptionI18n":[],"versionNumbers":["0.0.1"],"recommendedVersionNumber":"0.0.1"}
