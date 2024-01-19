@@ -1,0 +1,1 @@
+{"version":"0.2.2","main":"SaveRep.dll","notes":"- 修复了使用 Giuroll 时重复保存 rep 的 bug\n- 修复了使用 Giuroll (≥0.6.10) 对战时在对手 esc 的情况下不会保存 rep 的问题","notesI18n":[{"language":"en","content":"- no longer save reps duplicately when using Giuroll\n- fix an issue that SaveRep cannot determine esc of the opponent when using Giuroll >= 0.6.10"}],"configFiles":[]}
