@@ -1,1 +1,1 @@
-{"version":"0.6.12a","main":"giuroll.dll","notes":"设置frame_one_freeze_mitigation=no以避免可能的中途天气不同步bug，可以使用无限卡组mod了","notesI18n":[],"configFiles":["giuroll.ini"]}
+{"version":"0.6.12a","main":"giuroll.dll","notes":"设置frame_one_freeze_mitigation=no以避免可能的中途天气不同步bug，可以使用无限卡组mod了","notesI18n":[],"configFiles":["giuroll.ini"],"downloadLinks":[{"type":"github","url":"https://github.com/soku-cn/Giuroll/releases/download/v0.6.12a/Giuroll_0.6.12a.zip"}]}
