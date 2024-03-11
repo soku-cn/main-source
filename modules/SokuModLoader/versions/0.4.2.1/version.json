@@ -1,0 +1,1 @@
+{"version":"0.4.2.1","main":"d3d9.dll","notes":"- d3d9_ModLoader_0.4.2 修复一些BUG\n- 新 Swarm 大厅功能整合（中转联机工具）\n\n暂时取消补丁，正常用户不要安装补丁，[手动下载补丁](https://soku-cn.gitee.io/FAQ/In-Games/MissingGraphic.html)\n- 修复新 Intel CPU 核显导致的特效变成一根线的问题","notesI18n":[],"configFiles":[]}
