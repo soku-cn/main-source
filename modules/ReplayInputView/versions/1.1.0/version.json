@@ -1,0 +1,1 @@
+{"version":"1.1.0","main":"ReplayInputView+.dll","notes":"- 修复 F6 在开启 giuroll 的同时观看 Replay 发生的内存泄漏崩溃的 Bug\n- 修复观战模式和 Replay 模式下按 F7 每帧识别一次的 Bug\n- By Hagb","notesI18n":[],"configFiles":["ReplayInputView+.ini"]}
