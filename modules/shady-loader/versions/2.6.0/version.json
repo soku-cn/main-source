@@ -1,0 +1,1 @@
+{"version":"2.6.0","main":"shady-loader.dll","notes":"- Updated runtime to VS 2022.\n- Fixed file loading in Lua.\n- Added functions in Lua.","notesI18n":[],"configFiles":["shady-loader.ini"]}
