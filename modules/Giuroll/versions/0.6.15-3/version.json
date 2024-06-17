@@ -1,0 +1,1 @@
+{"version":"0.6.15-3","main":"giuroll.dll","notes":"- 改善了回滚的性能\n- 增加了新的 ini 选项 warning_when_lagging=yes，打开后，当自己电脑性能不佳时右下角帧数会变红，对局卡顿（网络原因或对手电脑问题）时中央回滚数字会变黄\n- 可能导致电脑性能不佳的原因：直播/录屏配置过高、开启了省电模式、没插电源、CPU过热降频、显卡驱动有问题、NVIDA显卡驱动设置里锁了60帧\n- [为什么联机很卡](https://wiki.514.live/FAQ/Play/LagPlaying.html)","notesI18n":[],"configFiles":[]}
