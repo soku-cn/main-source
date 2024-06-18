@@ -1,1 +1,1 @@
-{"version":"0.6.15-4","main":"giuroll.dll","notes":"- 可能改善“高网络延迟”和“轻微不稳定wifi”等渣网情况下的画面和指令流畅度\n- 卡帧时的指令也会被读取\n- 只要 1P 使用了 0.6.15-4[2024-06-18] 版本就可以让双方都有改善的效果","notesI18n":[],"configFiles":[]}
+{"version":"0.6.15-4","main":"giuroll.dll","notes":"- 可能改善“高网络延迟”和“轻微不稳定wifi”等渣网情况下的画面和指令流畅度\n- 卡帧时的指令也会被读取\n- 只要 1P 使用了 0.6.15-4[2024-06-18] 版本就可以让双方都有改善的效果","notesI18n":[],"configFiles":[],"downloadLinks":[{"type":"gitee","url":"https://gitee.com/soku-cn/Giuroll/releases/download/v0.6.15-4/Giuroll_0.6.15-4.zip"}]}
