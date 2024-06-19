@@ -1,0 +1,1 @@
+{"version":"2.6.1","main":"shady-loader.dll","notes":"### 已修复美化包内含有480以上文件时，进入选人界面等崩溃的BUG\nhttps://www.bilibili.com/opus/936855117450182661","notesI18n":[],"configFiles":["shady-loader.ini"]}
