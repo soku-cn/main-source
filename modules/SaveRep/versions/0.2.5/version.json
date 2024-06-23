@@ -1,1 +1,1 @@
-{"version":"0.2.5","main":"SaveRep.dll","notes":"0.2.3 -> 0.2.5:\n- 输出更多有助于诊断问题的信息\n- 修复了崩溃时潜在的无限循环问题","notesI18n":[],"configFiles":[]}
+{"version":"0.2.5","main":"SaveRep.dll","notes":"0.2.3 -> 0.2.5:\n- 输出更多有助于诊断问题的信息\n- 修复了崩溃时潜在的无限循环问题","notesI18n":[],"configFiles":[],"downloadLinks":[{"type":"gitee","url":"https://gitee.com/soku-cn/SaveRep/releases/download/v0.2.5/SaveRep_0.2.5.zip"}]}
