@@ -1,0 +1,1 @@
+{"version":"2.6.2","main":"shady-loader.dll","notes":"- 修复单个压缩包内超过480个文件时崩溃的BUG\n- 修复魔改角色 lua 中 battle.replaceCharacter 函数BUG","notesI18n":[],"configFiles":["shady-loader.ini"]}
