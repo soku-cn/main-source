@@ -1,1 +1,1 @@
-{"version":"2.6.2","main":"shady-loader.dll","notes":"- 修复单个压缩包内超过480个文件时崩溃的BUG\n- 修复魔改角色 lua 中 battle.replaceCharacter 函数BUG","notesI18n":[],"configFiles":["shady-loader.ini"]}
+{"version":"2.6.2","main":"shady-loader.dll","notes":"- 修复单个压缩包内超过480个文件时崩溃的BUG\n- 修复魔改角色 lua 中 battle.replaceCharacter 函数BUG","notesI18n":[],"configFiles":["shady-loader.ini"],"downloadLinks":[{"type":"gitee","url":"https://gitee.com/soku-cn/shady-loader/releases/download/v2.6.2/shady-loader_2.6.2.zip"}]}
