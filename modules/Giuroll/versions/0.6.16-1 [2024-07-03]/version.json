@@ -1,1 +1,0 @@
-{"version":"0.6.16-1 [2024-07-03]","main":"giuroll.dll","notes":"### 回退回 0.6.16-1 版本【2024-07-03】\n- 之前的 0.6.16-3 版本存在被火绒误杀误报的BUG\n- 0.6.16-3 版本中使用 萌卡/DaZe 联机时会报错崩溃，建议使用 Swarm 联机\n- https://www.bilibili.com/opus/949077451918540835","notesI18n":[],"configFiles":[]}
