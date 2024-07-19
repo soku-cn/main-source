@@ -1,0 +1,1 @@
+{"version":"0.6.17.0","main":"giuroll.dll","notes":"### 增加了“回滚时保持顺滑镜头”的特性，与旧版本兼容\n- [顺滑回滚镜头（右）对比预览 giuroll 0.6.17【非想天则Mod】](https://www.bilibili.com/video/BV1TBbXefE8B/)\n### 0.6.17之前的版本存在已知的可能会触发游戏崩溃的BUG，建议保持更新以避免不必要的麻烦","notesI18n":[],"configFiles":[]}
