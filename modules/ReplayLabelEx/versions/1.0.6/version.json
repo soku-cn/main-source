@@ -1,0 +1,1 @@
+{"version":"1.0.6","main":"ReplayLabelEx.dll","notes":"- 修复潜在的网战中 Esc 后崩溃和计分错误问题","notesI18n":[],"configFiles":["CharacterNames.ini","ReplayLabelEx.ini"]}
