@@ -1,0 +1,1 @@
+{"version":"2.0.0","main":"CharactersInForeground.dll","notes":"- 可在 th123\\modules\\CharactersInForeground\\CharactersInForeground.ini 文件内设置，角色在伤害面板（HIT数，伤害，Rate，Limit等）的前面还是后面。部分连段可能需要看HIT数或者Rate，如果你不希望角色挡住信息，但是又希望角色不被血条挡住，那就可以去修改了","notesI18n":[],"configFiles":[]}
