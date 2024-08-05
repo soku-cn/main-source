@@ -1,0 +1,1 @@
+{"version":"1.4.0","main":"CharactersInForeground.dll","notes":"- 【2024-08-05】检修一个对战中画面卡住，下方延迟不断递增到一两千直至恢复或断开连接的BUG\n","notesI18n":[],"configFiles":[]}
