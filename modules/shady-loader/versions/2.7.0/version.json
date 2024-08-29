@@ -1,0 +1,1 @@
+{"version":"2.7.0","main":"shady-loader.dll","notes":"Shady Loader - Version 2.7\nChangelog:\n- Ignore folders in zip loading - suppress some warnings\n- Fix modules names with [brackets] not being saved\n- Lua: fix createObject and random\n- Added failsafe to image loading","notesI18n":[],"configFiles":["shady-loader.ini"]}
