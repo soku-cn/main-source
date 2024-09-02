@@ -1,0 +1,1 @@
+{"version":"0.6.17.4","main":"giuroll.dll","notes":"giuroll 0.6.17-4【2024-09-02】\n- 集成 ChainCFix\n- 修复了一个未定义行为（在 x86/x86_64 pc 上一般不引起问题），从而可以在 box86 下运行（winlator、mobox 等部分在安卓机上跑 windows 程序的方案亦基于此）\n- 更好地兼容新的 SokuDirectXOptimizations 修复补丁\n- 会对配置文件编码、重复加载 giuroll 等问题进行检查","notesI18n":[],"configFiles":[]}
