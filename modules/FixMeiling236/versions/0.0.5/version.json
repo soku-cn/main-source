@@ -1,0 +1,1 @@
+{"version":"0.0.5","main":"FixMeiling236.dll","notes":"- 尝试解决 score123-back.dat 因为只读属性而无法更新覆盖的问题\n- 脚本文件统一 UTF-8 的问题\n### 如果遇到提示对路径 xxx 访问被拒绝的情况，可以尝试右键使用管理员权限运行这个灵梦图标的 SokuLauncher","notesI18n":[],"configFiles":[]}
