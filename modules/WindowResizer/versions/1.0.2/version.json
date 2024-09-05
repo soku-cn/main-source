@@ -1,0 +1,1 @@
+{"version":"1.0.2","main":"WindowResizer.dll","notes":"- 修复BUG：[游戏画面显示错位](https://wiki.514.live/FAQ/In-Games/CursedWindow.html)\n- 修复BUG：开第二个则时把窗口属性赋予第一个则，而第二个无法拉伸窗口\n- 新引入的BUG：开游戏后，游戏窗口可能不在最前面","notesI18n":[],"configFiles":["WindowResizer.ini"]}
