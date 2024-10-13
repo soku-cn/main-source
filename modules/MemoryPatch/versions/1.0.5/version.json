@@ -1,0 +1,1 @@
+{"version":"1.0.5","main":"MemoryPatch.dll","notes":"- 增加了修复故事模式天子石柱bug的补丁\n- 删掉了会影响故事模式的则2补丁\n### 注意：则2会影响故事模式，玩故事模式要关掉则2","notesI18n":[],"configFiles":[]}
