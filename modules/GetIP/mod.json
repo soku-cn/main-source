@@ -1,1 +1,0 @@
-{"name":"GetIP","author":"delthas","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"GetIP"},{"type":"gitee","owner":"soku-cn","repo":"GetIP"}],"description":"（警告：可能引发随机崩溃，不建议使用）建主后，自动复制 IP 和自定义消息。","descriptionI18n":[],"versionNumbers":[],"recommendedVersionNumber":"0.0.1"}
