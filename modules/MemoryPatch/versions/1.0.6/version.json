@@ -1,0 +1,1 @@
+{"version":"1.0.6","main":"MemoryPatch.dll","notes":"- 增加修改主菜单的操作界面键位的补丁，默认是 ↑↓←→ ZXC ASD，可以修改为例如 WSAD JKL UIO\n【注意】菜单键位被改变后，其他 mod 的对应键位也会随着改变，如无限套卡组mod的按D键开关卡组预览，如大厅mod的 A奔跑，S移动视角 等","notesI18n":[],"configFiles":[]}
