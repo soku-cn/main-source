@@ -1,0 +1,1 @@
+{"version":"1.1.2","main":"LabTool.dll","notes":"- 角色的复位和保存以及必杀技相关功能已被 F2 内的 【0-练习模式木桩复位和锁定】 mod 优化取代，更新此版本可以禁用 Labtool 的 1 2 4 5 快捷键功能，避免冲突\n- 之后会在 F8 信息面板内添加有利帧和压制缝隙的功能，此时 Labtool 可以被完全取代\n## [练习模式使用教程](https://wiki.514.live/mods/PracticeMods.html)","notesI18n":[],"configFiles":[]}
