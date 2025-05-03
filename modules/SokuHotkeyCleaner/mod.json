@@ -1,1 +1,1 @@
-{"name":"SokuHotkeyCleaner","author":"fishshapedfish","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"SokuHotkeyCleaner"},{"type":"gitee","owner":"soku-cn","repo":"SokuHotkeyCleaner"}],"description":"- 目前功能：屏蔽 Alt+空格 快捷键导致弹出菜单","descriptionI18n":[]}
+{"name":"SokuHotkeyCleaner","author":"fishshapedfish","priority":"0","repositories":[{"type":"github","owner":"soku-cn","repo":"SokuHotkeyCleaner"},{"type":"gitee","owner":"soku-cn","repo":"SokuHotkeyCleaner"}],"description":"- 目前功能：屏蔽 Alt+空格 快捷键导致弹出菜单","descriptionI18n":[],"versionNumbers":["0.0.1"]}
