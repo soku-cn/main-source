@@ -1,1 +1,1 @@
-{"version":"0.7.1.5b","main":"SokuLobbiesMod.dll","notes":"- 临时修复了大厅卡黄字加载的bug","notesI18n":[],"configFiles":["SokuLobbies.ini"]}
+{"version":"0.7.1.5b","main":"SokuLobbiesMod.dll","notes":"- 临时修复了大厅卡黄字加载的bug","notesI18n":[],"configFiles":["SokuLobbies.ini"],"downloadLinks":[{"type":"github","url":"https://github.com/soku-cn/SokuLobbiesMod/releases/download/v0.7.1.5b/SokuLobbiesMod_0.7.1.5b.zip"}]}
