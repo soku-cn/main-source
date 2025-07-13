@@ -1,1 +1,1 @@
-{"name":"Blacklist","author":"PinkySmile","priority":"0","repositories":[{"type":"gitee","owner":"soku-cn","repo":"Balcklist"},{"type":"github","owner":"soku-cn","repo":"Balcklist"}],"description":"和人连接了之后，按下设定的热键，就可以将对手的机签名字或者IP加入黑名单，被加入黑名单的人无法和自己联机","descriptionI18n":[]}
+{"name":"Blacklist","author":"PinkySmile","priority":"0","repositories":[{"type":"gitee","owner":"soku-cn","repo":"Balcklist"},{"type":"github","owner":"soku-cn","repo":"Balcklist"}],"description":"和人连接了之后，按下设定的热键，就可以将对手的机签名字或者IP加入黑名单，被加入黑名单的人无法和自己联机","descriptionI18n":[],"versionNumbers":["1.0.0"]}
