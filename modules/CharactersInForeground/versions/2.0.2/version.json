@@ -1,0 +1,1 @@
+{"version":"2.0.2","main":"CharactersInForeground.dll","notes":"- 可在 th123\\modules\\CharactersInForeground\\CharactersInForeground.ini 文件内设置“伤害面板（HIT数，伤害，Rate，Limit等）”是显示在角色的前面还是后面。\n考虑到部分连段可能需要看HIT数或者Rate，如果你不希望角色挡住信息，但是又希望角色不被血条挡住，那就可以修改\n- 按 TAB 键可以实时开关此防挡人 mod","notesI18n":[],"configFiles":["CharactersInForeground.ini"]}
