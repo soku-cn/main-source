@@ -1,0 +1,1 @@
+{"version":"1.2.2","main":"ReplayInputView+.dll","notes":"- 修复故事模式对话时出现第三者时崩溃的问题\n- 修复旧d3d9.dll加载时崩溃的问题","notesI18n":[],"configFiles":[]}
