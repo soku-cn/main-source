@@ -1,0 +1,1 @@
+{"version":"2.11.2c","main":"shady-loader.dll","notes":"## ShadyLoader mod 更新日志\n- F2 现在会预加载光标附近mod的预览图，并修复快速滚动时的卡顿问题\n- 很多（其中的很多是非常很多） Lua 脚本语法更新，详情查看鱼蛙仓库  \nhttps://github.com/jyanf/ShadyLib4LuaLS\nhttps://github.com/jyanf/Custom_SL\nhttps://docs.qq.com/aio/DR25tUFNLRkhpY2lS?p=W0IYddrsKfOgW5MSxkO2MR\n- mod 相关问题和讨论加群 200803640","notesI18n":[],"configFiles":["shady-loader.ini"]}
