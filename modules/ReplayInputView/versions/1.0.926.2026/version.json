@@ -1,1 +1,1 @@
-{"version":"1.0.926.2026","main":"ReplayInputView+.dll","notes":"添加对DisplayManager的兼容支持\n\nF4查看判定框，F6游戏信息，F7按键显示，F9减速，F10加速，F11暂停，F12逐帧","notesI18n":[],"configFiles":[]}
+{"version":"1.0.926.2026","main":"ReplayInputView+.dll","notes":"添加对DisplayManager的兼容支持\n\nF4查看判定框，F6游戏信息，F7按键显示，F9减速，F10加速，F11暂停，F12逐帧","notesI18n":[],"configFiles":[],"downloadLinks":[{"type":"github","url":"https://github.com/soku-cn/ReplayInputView/releases/download/v1.0.926.2026/ReplayInputView_1.0.926.2026.zip"}]}
