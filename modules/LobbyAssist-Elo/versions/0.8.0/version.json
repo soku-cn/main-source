@@ -1,1 +1,0 @@
-{"version":"0.8.0","main":"TrueRelative.dll","notes":"- 大厅内显示网页则上 Elo 分数的联动mod，数据来自 https://soku.cleista.cc\n- 大厅内按 F9 打开菜单","notesI18n":[],"configFiles":["SokuLobbyAssist.ini"],"downloadLinks":[{"type":"github","url":"https://github.com/soku-cn/LobbyAssist-Elo/releases/download/v0.8.0/LobbyAssist-Elo_0.8.0.zip"}]}
